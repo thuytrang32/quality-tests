@@ -9,8 +9,8 @@
   },
   "devDependencies": {
     "@httpx/exception": "^3.0.5",
-    "vite": "^5.2.0",
-    "vitest": "^1.4.0",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4",
     "zod": "^3.22.4"
   },
   "dependencies": {
